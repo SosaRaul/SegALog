@@ -1,3 +1,5 @@
+SegALog
+
 Gestión de seguimiento de alumnos 
 
 Permite cargar observaciones sobre el rendimiento del alumno para cada materia.
